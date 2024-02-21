@@ -7,6 +7,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
+
+// Hello HLoc ne    
 namespace WEEK01
 {
     internal class HocSinhDAO : DAO
