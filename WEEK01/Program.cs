@@ -12,6 +12,7 @@ namespace WEEK01
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new FHocsinh());
+            //Hello, my name is Ho Thanh Dat.
         }
     }
 }
