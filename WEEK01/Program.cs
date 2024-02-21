@@ -2,6 +2,8 @@ namespace WEEK01
 {
     internal static class Program
     {
+        // Day la comment cua hloc26
+        // Hello
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
