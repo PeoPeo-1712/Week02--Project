@@ -2,8 +2,6 @@ namespace WEEK01
 {
     internal static class Program
     {
-        // Day la comment cua hloc26
-        // Hello
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
@@ -14,7 +12,7 @@ namespace WEEK01
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new FHocsinh());
-            //Hello, my name is Ho Thanh Dat. I am 25 years old.
+            //Hello, my name is Ho Thanh Dat. I am 69 years old.
         }
     }
 }
